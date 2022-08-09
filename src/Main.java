@@ -13,6 +13,7 @@ public class Main {
         }
         else {
             System.out.println("Kullanici Adiniz Yada Parolaniz Yanlis!");
+            System.out.println("deneme");
         }
     }
 }
